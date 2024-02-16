@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rainitya403@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nnr403/](https://www.linkedin.com/in/nnr403/)
+- 📄 Know about my experiences [http://tinyurl.com/nnrresume](http://tinyurl.com/nnrresume)
 
 - ⚡ Fun fact **I am not the same person you met... I am a bit older now...**
 
