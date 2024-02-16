@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivam-1400&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshnotcool" /> </p>
 
 
-- 🔭 I’m currently working on **ML Project**
+- 🔭 I’m currently working on **ML Project.**
 
-- 🌱 I’m currently learning **ML and Advance JAVA**
+- 🌱 I’m currently learning **ML and Advance JAVA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rainitya/](https://github.com/rainitya/)
 
