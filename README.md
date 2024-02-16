@@ -20,11 +20,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/nnr403//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nityanand Rai" height="30" width="40" /></a>
+     <a href="https://www.instagram.com/its_nnr__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepeshranjan.khatri" height="30" width="40" /></a>
    <!-- <a href="https://leetcode.com/skshivamkeshri852/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skshivamkeshri852" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/profile/skshivam_keshri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skshivam_keshri1" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/shivamkeshri14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivamkeshri14" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/skshivamkeshri852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="skshivamkeshri852" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/ri_shi_147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepeshranjan.khatri" height="30" width="40" /></a>  -->
+     -->
 
 </p>
 
